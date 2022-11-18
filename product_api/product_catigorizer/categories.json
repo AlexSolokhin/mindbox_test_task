@@ -1,0 +1,44 @@
+[
+{
+  "model": "catigorizer_api.categories",
+  "pk": 1,
+  "fields": {
+    "name": "Laptops"
+  }
+},
+{
+  "model": "catigorizer_api.categories",
+  "pk": 2,
+  "fields": {
+    "name": "Smartphones"
+  }
+},
+{
+  "model": "catigorizer_api.categories",
+  "pk": 3,
+  "fields": {
+    "name": "Tablets"
+  }
+},
+{
+  "model": "catigorizer_api.categories",
+  "pk": 4,
+  "fields": {
+    "name": "Electronic devices"
+  }
+},
+{
+  "model": "catigorizer_api.categories",
+  "pk": 5,
+  "fields": {
+    "name": "Premium"
+  }
+},
+{
+  "model": "catigorizer_api.categories",
+  "pk": 6,
+  "fields": {
+    "name": "Clothes"
+  }
+}
+]

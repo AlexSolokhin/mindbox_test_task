@@ -1,0 +1,86 @@
+[
+{
+  "model": "catigorizer_api.goods",
+  "pk": 1,
+  "fields": {
+    "name": "Lenovo Legion",
+    "description": "Gaming",
+    "categories": [
+      1,
+      4,
+      5
+    ]
+  }
+},
+{
+  "model": "catigorizer_api.goods",
+  "pk": 2,
+  "fields": {
+    "name": "IPhone 13",
+    "description": "Fashinable",
+    "categories": [
+      2,
+      4,
+      5
+    ]
+  }
+},
+{
+  "model": "catigorizer_api.goods",
+  "pk": 3,
+  "fields": {
+    "name": "Sumsung Galaxy Tab",
+    "description": "Big screen",
+    "categories": [
+      3,
+      4
+    ]
+  }
+},
+{
+  "model": "catigorizer_api.goods",
+  "pk": 4,
+  "fields": {
+    "name": "Honor 10 lite",
+    "description": "Cheap",
+    "categories": [
+      2,
+      4
+    ]
+  }
+},
+{
+  "model": "catigorizer_api.goods",
+  "pk": 5,
+  "fields": {
+    "name": "MacBook Pro",
+    "description": "Cool",
+    "categories": [
+      1,
+      4,
+      5
+    ]
+  }
+},
+{
+  "model": "catigorizer_api.goods",
+  "pk": 6,
+  "fields": {
+    "name": "ReadMe Note",
+    "description": "Easy to use",
+    "categories": [
+      3,
+      4
+    ]
+  }
+},
+{
+  "model": "catigorizer_api.goods",
+  "pk": 7,
+  "fields": {
+    "name": "Audi A3",
+    "description": "Shiny",
+    "categories": []
+  }
+}
+]
